@@ -1,4 +1,4 @@
-<!DocType HTML>
+<!DOCTYPE HTML>
 <html>
 <head>
 <title> Chapter 2 </Title>
@@ -20,3 +20,6 @@ but this is rarely ever true.  Also as part of being a student, sometimes I only
 you can sure bet I'm gonna milk it for as long as I can, even if it's redundant.  Is it lazy?  Yep. But I might not know how to utilize what I've already written,
 so instead, I turn to simply writing my code again.  I can remember specifically that some of my projects in 180 and 220 featured a lot of duplication, usually
 due to a mixture of both indadvertent and impatient coding. <p>
+
+<body>
+</html>
